@@ -7,7 +7,7 @@ will upload soon
 ### Custom Dataset Preparation
 To train our model, we created a custom dataset consisting of car images with annotated defect labels. We used the Roboflow tutorial to label our dataset, which provided an efficient and accurate way to annotate car defects. The labeled dataset was then used for training the YOLOv8 model.
 
-### YOLOv8 Object Detection
+### YOLOv8 Object Segmentation & Detection
 We utilized the YOLOv8 algorithm for object detection, which is a state-of-the-art deep learning model specifically designed for real-time object detection. YOLOv8 offers high accuracy and fast processing times, making it well-suited for our car defect system. By training the YOLOv8 model on our custom dataset, we enable it to recognize and localize various car defects with high precision.
 
 ### Streamlit Application
