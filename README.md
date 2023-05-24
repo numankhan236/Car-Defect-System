@@ -24,3 +24,4 @@ Wait for the YOLOv8 model to process the image and generate predictions.
 The application will display the input image with the detected defects highlighted.
 
 Thank's If you want to support me then,
+<p><a href="https://www.buymeacoffee.com/numankhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="numankhan" /></a></p><br><br>
