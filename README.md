@@ -7,9 +7,10 @@ This project focuses on developing a car defect system that performs segmentatio
 
 Click the thumbnail below to watch the demo video:
 
-[![AI Pakistan Demo Video](https://cdn.loom.com/sessions/thumbnails/cf63197a049a408a9c7acd8a77531968-with-play.png)](https://www.loom.com/share/cf63197a049a408a9c7acd8a77531968?sid=fd6d4c3a-694c-48d8-96bb-537812f7940e)
+[![AI Pakistan Demo Video](image-url)](https://www.loom.com/share/cf63197a049a408a9c7acd8a77531968?sid=fd6d4c3a-694c-48d8-96bb-537812f7940e)
 
 You can also [watch the video here](https://www.loom.com/share/cf63197a049a408a9c7acd8a77531968?sid=fd6d4c3a-694c-48d8-96bb-537812f7940e) in a new tab.
+
 
 
 ### Custom Dataset Preparation
