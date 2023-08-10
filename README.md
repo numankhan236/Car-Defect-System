@@ -3,11 +3,9 @@ This project focuses on developing a car defect system that performs segmentatio
 
 ### Demo Video
 
-## Demo Video
+[![Demo Video](https://img.shields.io/badge/Watch%20Demo-Video-blue)](https://www.loom.com/share/cf63197a049a408a9c7acd8a77531968?sid=f005577f-2c9f-4cad-9b15-e971212e169f)
 
-<a href="https://www.loom.com/share/cf63197a049a408a9c7acd8a77531968?sid=6604425b-3992-425e-8b56-18a47511f723">
-  <img src="BUTTON_IMAGE_URL" alt="Watch the Loom Video" width="200"/>
-</a>
+Click the button above or use the following link: [Watch Demo Video](https://www.loom.com/share/cf63197a049a408a9c7acd8a77531968?sid=f005577f-2c9f-4cad-9b15-e971212e169f)
 
 
 
