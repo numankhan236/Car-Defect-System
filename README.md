@@ -1,8 +1,11 @@
 # Car Defect System Segmentation and Detection
 This project focuses on developing a car defect system that performs segmentation and detection of car defects using the YOLOv8 Custom Training. We have prepared our own custom dataset by labeling car images with defects using the Roboflow tutorial. The system is implemented as a Streamlit application, which takes a car image as input and predicts the defects present in the image.
 
-### Demo
-will upload soon
+### Demo Video
+
+Watch the demo video of the Car Defect Segmentation and Detection  to see the functionalities in action:
+
+<iframe width="560" height="315" src="https://www.loom.com/embed/cf63197a049a408a9c7acd8a77531968" frameborder="0" allowfullscreen></iframe>
 
 ### Custom Dataset Preparation
 To train our model, we created a custom dataset consisting of car images with annotated defect labels. We used the Roboflow tutorial to label our dataset, which provided an efficient and accurate way to annotate car defects. The labeled dataset was then used for training the YOLOv8 model.
