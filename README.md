@@ -3,9 +3,14 @@ This project focuses on developing a car defect system that performs segmentatio
 
 ### Demo Video
 
-Watch the demo video of the Car Defect Segmentation and Detection  to see the functionalities in action:
+## Demo Video
 
-<iframe width="560" height="315" src="https://www.loom.com/embed/cf63197a049a408a9c7acd8a77531968" frameborder="0" allowfullscreen></iframe>
+Click the thumbnail below to watch the demo video:
+
+[![AI Pakistan Demo Video](https://cdn.loom.com/sessions/thumbnails/cf63197a049a408a9c7acd8a77531968-with-play.png)](https://www.loom.com/share/cf63197a049a408a9c7acd8a77531968?sid=fd6d4c3a-694c-48d8-96bb-537812f7940e)
+
+You can also [watch the video here](https://www.loom.com/share/cf63197a049a408a9c7acd8a77531968?sid=fd6d4c3a-694c-48d8-96bb-537812f7940e) in a new tab.
+
 
 ### Custom Dataset Preparation
 To train our model, we created a custom dataset consisting of car images with annotated defect labels. We used the Roboflow tutorial to label our dataset, which provided an efficient and accurate way to annotate car defects. The labeled dataset was then used for training the YOLOv8 model.
